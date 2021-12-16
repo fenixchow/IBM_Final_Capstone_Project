@@ -1,2 +1,2 @@
-# ibm_training
-this is for my IBM Data Science certificate training
+# IBM_Final_Capstone_Project
+this is for IBM Data Science Final Capstone Project by Fuge Zou
